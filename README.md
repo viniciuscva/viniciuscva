@@ -1,4 +1,4 @@
-### Fala! 👋
+### Muito bem-vindo! 👋
 
 <!--
 **viniciuscva/viniciuscva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Carlos Vinicius e eu sou graduado em Ciência da Computação pela UEPB (2021). 
+Meu nome é Carlos Vinicius, e sou um Cientista de Computação entusiasta de Ciência e Análise de Dados.
 
-Tenho interesse em Ciência de Dados, Análise de Dados e Python.
-
-Atualmente estou aperfeiçoando meus conhecimentos em SQL, Python, VBA e Tableau.
+Minhas principais tecnologias de interesse são: SQL (MySQL, SQL Server, BigQuery), Python (Numpy, Pandas), R (tidyverse), Excel, VBA, Tableau e Power BI.
 
 Você pode ver meu LinkedIn aqui: https://www.linkedin.com/in/vinicius-alves-mm/
 
