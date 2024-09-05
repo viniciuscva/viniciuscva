@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Carlos Vinicius, e sou um Cientista da Computação entusiasta de Ciência e Análise de Dados.
+Sou Carlos Vinicius, mestre em Ciência da Computação, desenvolvedor de software, apaixonado por Python e entusiasta de Ciência e Análise de Dados.
 
-Minhas principais tecnologias de interesse são: SQL, Python, R, Excel, VBA, Tableau e Power BI.
+Minhas principais tecnologias de interesse são: Python, SQL, Javascript, R, Excel, VBA, Tableau e Power BI.
 
 Você pode ver meu LinkedIn aqui: https://www.linkedin.com/in/vinicius-alves-mm/
 
