@@ -19,5 +19,5 @@ I'm Carlos Vinicius, MSc in Computer Science, AI developer, and a passionate adv
 
 My main areas of interest include: Artificial Inteligence, Deep learning, Natural language processing (NLP), Large language models (LLMs), Database systems, Data science, analytics and engineering and cloud computing.
 
-You can learn more about my professional background on my [LinkedIn page](https://www.linkedin.com/in/vinicius-alves-mm/). 
+You can see more about my professional background on my [LinkedIn page](https://www.linkedin.com/in/vinicius-alves-mm/). 
 
