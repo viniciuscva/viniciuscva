@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou Carlos Vinicius, mestre em Ciência da Computação, desenvolvedor de software, apaixonado por Python e entusiasta de Ciência e Análise de Dados.
+I'm Carlos Vinicius, MSc in Computer Science, AI developer, and a passionate advocate for Python, Data Science, and Data Analysis.
 
-Minhas principais tecnologias de interesse são: Python, SQL, Javascript, R, Excel, VBA, Tableau e Power BI.
+My main areas of interest include: Artificial Inteligence, Deep learning, Natural language processing (NLP), Large language models (LLMs), Database systems, Data science, analytics and engineering and cloud computing.
 
-Você pode ver meu LinkedIn aqui: https://www.linkedin.com/in/vinicius-alves-mm/
+You can learn more about my professional background on my [https://www.linkedin.com/in/vinicius-alves-mm/](LinkedIn page). 
 
